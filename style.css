@@ -1,0 +1,36 @@
+* {
+                    margin: 0px;
+                    padding: 0px;
+}
+.card img {
+
+                   padding: 50px;
+                   border-radius: 100px;
+                   padding-top: 50px ;
+                   
+                   
+
+}
+.card h1 {
+                    padding-left: 70px;
+                    padding-bottom: 50px;
+                    margin: 1px;
+}
+.btn {
+                    border-radius: 8px;
+                    background-color: rgb(55, 181, 137);
+                    padding: 15px 32px ;
+                    color: white;
+                    text-decoration: none;
+                    border: none;
+                    cursor: pointer;
+
+}
+hr{
+                    width: 50%;
+                    margin-left: 5px;
+                    color: grey;
+
+                    
+
+}
